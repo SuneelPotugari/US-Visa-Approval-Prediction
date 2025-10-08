@@ -1,0 +1,21 @@
+drift_detected: false
+metric_details:
+  cat_method: null
+  cat_threshold: null
+  columns: null
+  drift_share: 0.5
+  embeddings: null
+  embeddings_drift_method: null
+  method: null
+  num_method: null
+  num_threshold: null
+  per_column_method: null
+  per_column_threshold: null
+  share_tests: null
+  tests: null
+  text_method: null
+  text_threshold: null
+  threshold: null
+  type: evidently:metric_v2:DriftedColumnsCount
+number_of_columns: 0
+number_of_drifted_columns: 0
